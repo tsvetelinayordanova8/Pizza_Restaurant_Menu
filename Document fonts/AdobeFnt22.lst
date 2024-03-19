@@ -1,0 +1,300 @@
+%!Adobe-FontList 1.22
+%Locale:0x809
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Auge-Trial-Bold
+FamilyName:Auge-Trial
+StyleName:Bold
+FullName:Auge-Trial Bold
+MenuName:Auge-Trial
+StyleBits:2
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\Auge-Trial-Bold.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:146760
+FileModTime:1682089171
+WeightClass:700
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Auge-Trial
+NameArray:0,Win,16,Auge-Trial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Auge-Trial-ExtraLight
+FamilyName:Auge-Trial
+StyleName:ExtraLight
+FullName:Auge-Trial ExtraLight
+MenuName:Auge-Trial ExtraLight
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\Auge-Trial-ExtraLight.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:140352
+FileModTime:1682089170
+WeightClass:200
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Auge-Trial ExtraLight
+NameArray:0,Win,16,Auge-Trial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Auge-Trial-ExtraLightItalic
+FamilyName:Auge-Trial
+StyleName:ExtraLight Italic
+FullName:Auge-Trial ExtraLight Italic
+MenuName:Auge-Trial ExtraLight Italic
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\Auge-Trial-ExtraLightItalic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:148528
+FileModTime:1682089192
+WeightClass:200
+WidthClass:5
+AngleClass:1
+NameArray:0,Win,1,Auge-Trial ExtraLight Italic
+NameArray:0,Win,16,Auge-Trial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:Bartina-Semibold
+FamilyName:Bartina
+StyleName:Semibold
+FullName:Bartina Semibold
+MenuName:Bartina Semibold
+StyleBits:0
+FamilyNameNative:Bartina
+StyleNameNative:Semibold
+FullNameNative:Bartina Semibold
+WritingScript:Cyrillic
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\Bartina Semibold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:46340
+FileModTime:1679143495
+WeightClass:600
+WidthClass:5
+AngleClass:0
+NameArray:25,Win,1,Bartina
+NameArray:25,Win,16,Bartina
+NameArray:29,Win,1,Bartina
+NameArray:29,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:6,Win,1,Bartina
+NameArray:6,Win,16,Bartina
+NameArray:0,Win,1,Bartina Semibold
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:29,Win,1,Bartina
+NameArray:29,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:29,Win,1,Bartina
+NameArray:29,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:7,Win,1,Bartina Semibold
+NameArray:7,Win,16,Bartina
+NameArray:29,Win,1,Bartina
+NameArray:29,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:29,Win,1,Bartina
+NameArray:29,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+NameArray:0,Win,1,Bartina
+NameArray:0,Win,16,Bartina
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:BloggerSans
+FamilyName:Blogger Sans
+StyleName:Regular
+FullName:Blogger Sans
+MenuName:Blogger Sans
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\Blogger Sans.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:160260
+FileModTime:1417166986
+WeightClass:400
+WidthClass:0
+AngleClass:0
+NameArray:0,Mac,18,Blogger Sans
+NameArray:0,Mac,4,Blogger Sans
+NameArray:0,Win,1,Blogger Sans
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:Comforter-Regular
+FamilyName:Comforter
+StyleName:Regular
+FullName:Comforter
+MenuName:Comforter
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\Comforter-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:no
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:119512
+FileModTime:1636725200
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Win,1,Comforter
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:FrederickatheGreat-Regular
+FamilyName:Fredericka the Great
+StyleName:Regular
+FullName:Fredericka the Great
+MenuName:Fredericka the Great
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\FrederickatheGreat-Regular.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:486216
+FileModTime:1400788486
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,Fredericka the Great
+NameArray:0,Mac,4,Fredericka the Great
+NameArray:0,Win,1,Fredericka the Great
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:GwenText-Trial-Black
+FamilyName:Gwen Text-Trial
+StyleName:Black
+FullName:Gwen Text-Trial Black
+MenuName:Gwen Text-Trial Black
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\GwenText-Trial-Black.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:51400
+FileModTime:1650375230
+WeightClass:900
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,4,Gwen Text-Trial Black
+NameArray:0,Win,1,Gwen Text-Trial Black
+NameArray:0,Win,16,Gwen Text-Trial
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:MinionPro-Regular
+FamilyName:Minion Pro
+StyleName:Regular
+FullName:Minion Pro
+MenuName:Minion Pro
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\MinionPro-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:218640
+FileModTime:1702746542
+WeightClass:400
+WidthClass:5
+AngleClass:0
+DesignSize:110
+NameArray:0,Mac,4,Minion Pro
+NameArray:0,Win,1,Minion Pro
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:beermoney
+FamilyName:beer money
+StyleName:Regular
+FullName:beer money
+MenuName:beer money
+StyleBits:0
+WritingScript:Roman
+OutlineFileName:D:\University\III Курс\I Семестър 1.3\Издателски системи\Course Project\Menu_A\Document fonts\beer money.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:687772
+FileModTime:1625295968
+WeightClass:400
+WidthClass:5
+AngleClass:0
+NameArray:0,Mac,18,beer money
+NameArray:0,Mac,4,beer money
+NameArray:0,Win,1,beer money
+%EndFont
+
